@@ -7,3 +7,11 @@ authentication ile kullanıcı doğrulaması yapılmış ve kullanıcı bilgiler
 - Uygulamaya kaydolan kullanıcılar bir ekranda listelenir
 - Kullanıcıların listelendiği ekranda kullanıcıların son görülme tarihi bulunur. Arama işlemi yapılabilir.
 - Bir kullanıcıya mesaj gönderildiğinde bildirim işlemi gerçekleşir
+
+<img align="center" width="800px" src="./pic/1.png" />
+
+<br>Firebase<br>
+<img align="center"  width="800px" src="./pic/2.png" />
+<img align="center"  width="800px" src="./pic/3.png" />
+<img align="center"  width="800px" src="./pic/4.png" />
+
